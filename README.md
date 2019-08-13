@@ -1,0 +1,1 @@
+# youtube-hide-next
